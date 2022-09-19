@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "swiftlog"
+  spec.name         = "Logging"
   spec.version      = "1.4.4"
   spec.summary      = "SwiftLog"
 
